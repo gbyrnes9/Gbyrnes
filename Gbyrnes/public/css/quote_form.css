@@ -1,0 +1,166 @@
+/* Css Document Quote Index */
+
+.nav-spacer {
+    height: 15%;
+    min-height: 75px;
+    width: 100%;
+}
+
+
+.quote-wrapper {
+    height: 100%;
+    width: 100%;
+    background-image:  none,url('/img/flag.svg'), url('/img/flag.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: scroll;
+}
+
+.quote-container {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.quote-form {
+    padding-top: 5%;
+}
+
+.quote-form-label {
+    width: 50%;
+    height: 100%;
+    padding: 5px 0 5px 0;
+    font: inherit;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+    color: #FFFFFF;
+}
+
+.quote-field {
+    width: 70%;
+}
+
+.quote-form-input-small {
+    width: 50%;
+    min-width: 175px;
+    border: none;
+    padding: 10px 0 10px 10px;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    opacity:.4;
+    font-weight: lighter;
+    background-color: #080808;
+    color: #FFFFFF;
+}
+
+
+.quote-form-input-large {
+    width: 90%;
+    padding: 5px 0 5px 10px;
+    border: none;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+    background-color: #080808;
+    opacity: .4;
+    color: #FFFFFF;
+}
+
+.quote-submit {
+    width: 40%;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+    background-color: #080808;
+    border: none;
+    opacity: .4;
+    color: #FFFFFF;
+    margin-bottom: 1%;
+}
+
+.quote-submit:hover {
+    font-weight: 400;
+    background-color: #FFFFFF;
+}
+
+.quote-info {
+    position: absolute;
+    top: 150px;
+    right: 50px;
+}
+
+.free-quote {
+    display: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 5%;
+    color: #FFFFFF;
+    opacity: .6;
+}
+
+.quote-info h6 {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 7rem;
+    color: #FFFFFF;
+}
+
+#quote-header {
+    border-bottom: 1px solid #080808;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 300;
+    opacity: .8;
+}
+
+@-moz-document url-prefix() {
+    .moz-width{
+        width:50%;
+    }}
+
+@media screen and (max-width: 800px) {
+    .quote-info h6 {
+        display: none;
+    }
+
+    .free-quote {
+        display: inherit;
+    }
+    .quote-container {
+        width: 96%;
+        margin: 0 auto;
+        padding: 0;
+        position: static;
+    }
+    .quote-info {
+        position: relative;
+        top: 0;
+        right: 0;
+        text-align: center;
+    }
+    .quote-field, .quote-form-input-small,.quote-form-label, .quote-info, .quote-submit, .quote-form-input-large  {
+        width: 100%;
+    }
+
+    #quote-header {
+        border: none;
+    }
+
+    @-moz-document url-prefix() {
+        .moz-width{
+            width:100%;
+        }
+    }
+
+
+}
+@-moz-document url-prefix() {
+    .quote-form-input-large {
+        color: ##FFFFFF
+    }
+}
+::-moz-placeholder {
+    color: #080808;
+    font-size: 1.4rem;
+}
+

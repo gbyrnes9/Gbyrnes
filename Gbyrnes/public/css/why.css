@@ -1,0 +1,34 @@
+/* Css Document Pages.Why */
+.why-container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.why-container p{
+    font-weight: 200;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    text-indent: 30px;
+}
+
+.why-container h1, .why-container h6 {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.why-btn {
+    font-size: medium;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+
+.why-contact-div {
+    text-align: center;
+    height: 100%;
+    margin: 5%;
+}
+
+.center {
+    text-align: center;
+}
+

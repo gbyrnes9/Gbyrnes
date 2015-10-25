@@ -1,0 +1,15 @@
+/* Css Document Layout */
+
+
+
+body {
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+
+#quote-overide {
+    background-color: #007095;
+    width: 50%;
+    color: white;
+    border: none;
+}

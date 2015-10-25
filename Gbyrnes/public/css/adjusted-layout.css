@@ -1,0 +1,38 @@
+/* Css Document Media Queries */
+
+@media screen and (max-width: 900px) {
+    .landing-page-wrapper {
+        background-image: url("/img/cropstatuteofliberty.jpg");
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .landing-page-wrapper {
+        background-image: none;
+        background-color: #FFFFFF;
+    }
+    .landing-div {
+        width: 100%;
+        height: 25%;
+    }
+
+   .landing-top-left:hover {
+       background-color: #588c7e;
+       opacity: .6;
+   }
+
+   .landing-top-right:hover {
+        background-color: #f2e394;
+        opacity: .6;
+   }
+
+   .landing-bottom-left:hover {
+       background-color: #f2ae72;
+       opacity: .6;
+   }
+
+   .landing-bottom-right:hover {
+       background-color: #8c4646;
+       opacity: .6;
+   }
+}

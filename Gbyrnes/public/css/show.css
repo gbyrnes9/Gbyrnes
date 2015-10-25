@@ -1,0 +1,37 @@
+/* Css Document Show Css */
+
+.show-wrapper {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+    height: 100%;
+}
+.show-container {
+    padding-top: 3%;
+    width: 90%;
+    margin: 0 auto;
+}
+.show-wrapper li {
+    list-style-type: none;
+    font-size: larger;
+    font-weight: 200;
+    overflow-wrap: break-word;
+    padding: 1% 0 1% 0;
+}
+.show-wrapper li p {
+    font-size: medium;
+    font-weight: 500;
+    display: inline;
+}
+.show-wrapper li a {
+    color: #0000C2;
+}
+.show-head {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: 200;
+    margin: 0;
+}
+.show-go-back {
+    float: right;
+    font-weight: 200;
+    color: #0000C2;
+}

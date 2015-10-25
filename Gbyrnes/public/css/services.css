@@ -1,0 +1,45 @@
+.services-wrapper h2 {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: normal;
+}
+
+.services-container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.services-wrapper p {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+}
+
+.services h4 {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+.services-wrapper {
+    text-decoration: none;
+    color: #080808;
+}
+
+.drop-down-container {
+    height: 100%;
+    width: 100%;
+    margin-top: 12%;
+}
+
+#1 {
+    color: red;
+}
+
+#1, #2, #3, #4, #5, #6 {
+    display: none;
+    color: blue;
+}
+
+.drop-down p {
+    display: none;
+}

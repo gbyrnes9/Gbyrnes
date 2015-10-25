@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 700" style="enable-background:new 0 0 1000 700;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#030202;}
+	.st1{fill:#2D2C2C;}
+	.st2{opacity:0.75;fill:#6ABD45;}
+	.st3{fill:#050606;}
+	.st4{fill:#1B1B1C;}
+	.st5{fill:none;stroke:#F7F5F6;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'MyriadPro-BoldCond';}
+	.st8{font-size:36.0704px;}
+	.st9{font-size:26.233px;}
+	.st10{letter-spacing:25;}
+	.st11{fill:#F15523;fill-opacity:0.75;}
+	.st12{fill:#F7F5F6;}
+	.st13{font-size:48px;}
+	.st14{fill:#F9F9FA;}
+	.st15{font-size:12px;}
+</style>
+<g id="Layer_1">
+	<rect class="st0" width="1000" height="700"/>
+</g>
+<g id="Layer_2">
+	<circle class="st1" cx="259" cy="350" r="145.8"/>
+	<path class="st2" d="M259,563.7c118,0,213.7-95.7,213.7-213.7c0-115.8-92-210-206.9-213.6v93.3c63.4,3.5,113.7,56,113.7,120.3
+		c0,66.6-54,120.5-120.5,120.5c-2.7,0-5.3-0.1-8-0.3l-11.4,92.6C246,563.4,252.5,563.7,259,563.7z"/>
+	<circle class="st3" cx="259" cy="350" r="120.5"/>
+	<circle class="st4" cx="259" cy="350" r="108.5"/>
+	<circle class="st5" cx="259" cy="350" r="213.7"/>
+	<text transform="matrix(1 0 0 1 162.6561 334.5154)"><tspan x="0" y="0" class="st6 st7 st8">52% </tspan><tspan x="60.2" y="0" class="st6 st7 st9">OF AMERICANS </tspan><tspan x="0" y="31.5" class="st6 st7 st9">   USE THE INTERNET</tspan><tspan x="0" y="63" class="st6 st7 st9 st10">		</tspan><tspan x="59" y="63" class="st6 st7 st9">   (2000)</tspan></text>
+</g>
+<g id="Layer_3">
+	<circle class="st5" cx="743" cy="350.1" r="213.7"/>
+	<circle class="st1" cx="743" cy="350.1" r="145.8"/>
+	<path class="st11" d="M743,350.1V136.4c118,0,213.7,95.7,213.7,213.7S861,563.7,743,563.7s-213.7-95.7-213.7-213.7
+		c0-42.5,10-77.2,32.5-113.2L743,350.1z"/>
+	<circle class="st3" cx="743" cy="350.1" r="120.5"/>
+	<circle class="st4" cx="743" cy="350.1" r="108.5"/>
+	<text id="_x38_4_x25__OF_AMERICANS_____USE_THE_INTERNET" transform="matrix(1 0 0 1 647.9792 343.2193)"><tspan x="0" y="0" class="st6 st7 st8">84% </tspan><tspan x="60.2" y="0" class="st6 st7 st9">OF AMERICANS </tspan><tspan x="0" y="31.5" class="st6 st7 st9">   USE THE INTERNET</tspan><tspan x="0" y="63" class="st6 st7 st9 st10">		</tspan><tspan x="59" y="63" class="st6 st7 st9">   (2015)</tspan></text>
+	<text transform="matrix(1 0 0 1 209 69)" class="st12 st7 st13">PAST AND PRESENT INTERNET USAGE</text>
+	<text transform="matrix(1 0 0 1 443 619)" class="st14 st7 st15">(PEW RESEARCH INSTITUTE)</text>
+</g>
+</svg>

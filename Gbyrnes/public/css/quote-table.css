@@ -1,0 +1,30 @@
+/* Css Document Quote Table*/
+
+.nav-spacer {
+    height: 14.8%;
+    min-height: 75px;
+    width: 100%;
+}
+
+.quote-view-wrapper {
+    width: 94%;
+    margin: 0 auto;
+}
+
+.quote-header {
+    width: 60%;
+    padding-left: 10%;
+    color: #080808;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+@media screen and (max-width: 550px) {
+    .quote-header {
+        text-align: center;
+        width: 100%;
+        margin: 0 auto;
+        padding: 2% 0 2% 0;
+}
+}
+
